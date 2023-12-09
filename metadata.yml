@@ -1,0 +1,12 @@
+---
+:id: 201436183
+:submitters:
+- :name: Vagesh Mahajan
+  :email: mt1221260@maths.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-10-11 11:30:24.759049000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-10-11 04:30:24.759049000 Z
+:status: processed
+:score: 106.0
